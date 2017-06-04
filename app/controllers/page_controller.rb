@@ -4,4 +4,6 @@ class PageController < ApplicationController
 
   def detail
   end
+
+  def listing; end
 end
